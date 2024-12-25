@@ -1,0 +1,13 @@
+{
+    "openai": {
+        "base_url": "https://integrate.api.nvidia.com/v1",
+        "api_key": "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"
+    },
+    "qdrant": {
+        "url": "https://e7ca7f9e-dadf-4ad1-9018-d709ee421a85.europe-west3-0.gcp.cloud.qdrant.io:6333",
+        "api_key": "aXKv5m75swS2trKxdfGwhWSgkEPvaO4z1P-IYwIGj5kuMvgdA3zayQ"
+    },
+    "mongodb": {
+        "connection_string":  "mongodb+srv://khoshal:9mjqWNbySgjrQQBi@cluster0.vwiyw.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+    }
+}
