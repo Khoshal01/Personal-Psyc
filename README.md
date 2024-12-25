@@ -48,9 +48,7 @@ Chatbot Interface: Gradio
 Data Handling: Retrieval-Augmented Generation (RAG)
 Computer Vision: OpenCV
 
-#  Screenshots of the Chatbot Interface
-![Chatbot Screenshot 1](images/Screenshot 2024-12-25 103531.png)
-![Chatbot Screenshot 2](images/Screenshot 2024-12-25 103612.png)
+
 
 
 
