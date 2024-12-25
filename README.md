@@ -1,4 +1,4 @@
-# Personal-Psyc
+# Personal-Phyc
 A mental health assistant chatbot designed to provide personalized post-surgery rehabilitation exercises, specifically targeting lower body issues like knee problems. The project integrates conversational AI and recovery exercises, helping patients with their physical rehabilitation. Key features include:
 
 Flask Backend: Ensures efficient and scalable operations.
